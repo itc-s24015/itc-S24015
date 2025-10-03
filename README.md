@@ -1,5 +1,10 @@
 ## Hi there 👋
-みなさまはじめまして
+みなさまはじめまして！
+専門学校iTカレッジ沖縄で情報系を学んでいる二年生です。
+趣味はテニスやボウリングで、　身体を動かしてリレフレッシュをするのが好きです！
+
+現在はＰyhonやKotlin等のプログラミン言語を学んでいます。
+目標は「使う人が見やすいようなプログラミングを作ること」です。
 <!--
 **itc-s24015/itc-S24015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

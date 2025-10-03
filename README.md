@@ -1,5 +1,5 @@
 ## Hi there 👋
-##みなさまこんにちは
+みなさまこんにちは
 
 <!--
 **itc-s24015/itc-S24015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,9 +4,10 @@
 現在はＰyhonやKotlin等のプログラミン言語を学んでいます。
 目標は「使う人が見やすいようなプログラミングを作ること」です。
 
-[![s24015's GitHub stats](https://github-readme-stats.vercel.app/api?username=s24015&show_icons=true&theme=radical)](https://github.com/s24015)
+##githubプロフィールステータス
+[![itc-s24015's GitHub stats](https://github-readme-stats.vercel.app/api?username=itc-s24015&show_icons=true&theme=radical)](https://github.com/sitc-24015)
 
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=s24015&theme=dark)](https://github.com/s24015)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=itc-s24015&theme=dark)](https://github.com/itc-s24015)
 
 
 ## 概要
